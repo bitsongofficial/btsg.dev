@@ -1,0 +1,19 @@
+{
+  "name": "btsg.dev",
+  "version": "0.1.0",
+  "description": "BitSong Network Documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "BitSong",
+    "email": "hello@bitsong.io"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.4",
+    "@vuepress/plugin-google-analytics": "1.7.1"
+  }
+}
