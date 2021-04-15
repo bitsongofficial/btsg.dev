@@ -2,7 +2,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'BitSong Network Documentation',
+  title: 'BitSong Documentation',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
