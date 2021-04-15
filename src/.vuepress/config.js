@@ -49,6 +49,10 @@ module.exports = {
         ]
       },
       {
+        title: "Use Cases",
+        path: "/use-cases/"
+      },
+      {
         title: "Delegators",
         path: "/delegators/",
         children: [
@@ -66,6 +70,14 @@ module.exports = {
           ['/validators/validator-faq.md', 'Validator FAQ'],
           ['/validators/validator-security.md', 'Validator Security'],
         ]
+      },
+      {
+        title: "Wallets",
+        path: "/wallets/"
+      },
+      {
+        title: "Exchanges",
+        path: "/exchanges/"
       }
     ]
   },
